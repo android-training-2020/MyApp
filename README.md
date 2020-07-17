@@ -1,4 +1,4 @@
 ## my super cool app
 
-![snapshot](snapshots/en.png)
-![snapshot](snapshots/cn-zh.png)
+![snapshot](snapshots/btn.png)
+![snapshot](snapshots/constraint-layout.png)
