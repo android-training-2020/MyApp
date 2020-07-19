@@ -1,3 +1,3 @@
 ## my super cool app
 
-![snapshot](snapshots/login-view.png)
+![snapshot](snapshots/loginview.png)
