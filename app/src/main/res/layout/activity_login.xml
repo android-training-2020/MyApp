@@ -99,7 +99,7 @@
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginLeft="62.5dp"
         android:layout_marginRight="62.5dp"
-        android:background="@drawable/btn_border_radius"
+        android:background="@drawable/login_btn_border_radius"
         android:textColor="@android:color/white"
         android:textAllCaps="false"
         android:text="Login"></Button>
@@ -157,7 +157,7 @@
         android:textAllCaps="false"
         android:textColor="#1f4ba5"
         android:textSize="12sp"
-        android:background="@drawable/btn_border_radius2"
+        android:background="@drawable/signup_btn_border_radius"
         android:scaleType="fitXY"
         android:text="Sign Up with Email"></Button>
 </androidx.constraintlayout.widget.ConstraintLayout>
